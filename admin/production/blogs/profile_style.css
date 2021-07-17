@@ -1,0 +1,49 @@
+.preview{
+ width: 100px;
+ height: 100px;
+ border: 1px ;
+ margin: 0 auto;
+ background: white;
+}
+
+.preview img{
+ display: none;
+}
+
+.but_upload1{
+  border: 0px;
+  background-color: deepskyblue;
+  color: white;
+  padding: 5px 15px;
+  margin-left: 10px;
+}
+.but_upload2{
+  border: 0px;
+  background-color: deepskyblue;
+  color: white;
+  padding: 5px 15px;
+  margin-left: 10px;
+}
+.but_upload3{
+  border: 0px;
+  background-color: deepskyblue;
+  color: white;
+  padding: 5px 15px;
+  margin-left: 10px;
+}
+.but_upload4{
+  border: 0px;
+  background-color: deepskyblue;
+  color: white;
+  padding: 5px 15px;
+  margin-left: 10px;
+}
+
+/* Button */
+.button{
+ border: 0px;
+ background-color: deepskyblue;
+ color: white;
+ padding: 5px 15px;
+ margin-left: 10px;
+}
